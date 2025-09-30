@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Still under development.
+This plugin is still under development.
